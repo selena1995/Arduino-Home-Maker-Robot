@@ -22,6 +22,27 @@ ARDUINO coding
 ![image](https://user-images.githubusercontent.com/79990158/201730542-e70f43d7-f378-4375-b2d7-2e1996f05030.png)
 ![image](https://user-images.githubusercontent.com/79990158/201730575-9f757339-4b28-4d6c-b2e6-cd1c3ea31f2a.png)
 ![image](https://user-images.githubusercontent.com/79990158/201730606-680146bd-cf19-4cc3-aeb7-bf4f5c03521f.png)
+
 Here in this part we will need some PVC sheet to make the chassis, 4 TT gear motors with wheels, 1 submersible pump, one cooldrinks can which is completely optional. you may use anything else to make the water tank. This is considered as the easiest part of this robot. All you need to only cut the PVC sheet and assemble all the components together in a proper way. Here I have attached some pictures on this.
 
 Here I have used 60rpm TTgear motors but you may vary the rpm according to your need. But one tips I want to share that, lower rpm motos are easy to control & they could be shown easily in any resentation. Thats it for this part. now we will move to our next part which is ELECTRONICS PART. Here we will directly enter into the circuit and pcb making part. This could be littlebit tough if you are a fresher in making electronics project but I will explain is as much easier as possible.
+
+## CIRCUIT Diagram & PCB MAKING
+Here I have attached the circuit or the connection diagram which is very easy to understand and make. Please follow this diagram when you are going to make this project.
+
+![image](https://user-images.githubusercontent.com/79990158/201730894-616e0016-6f1b-493a-9a04-2b6f2266ca0a.png)
+![image](https://user-images.githubusercontent.com/79990158/201730939-a9ac2117-1ae7-48c8-a875-00e0d9b06fe5.png)
+![image](https://user-images.githubusercontent.com/79990158/201730999-056d1ca1-c65b-46a8-892d-2fae215ffbe8.png)
+![image](https://user-images.githubusercontent.com/79990158/201731051-1402c4e4-5c3c-468e-9bdd-56defa7b2430.png)
+
+This project will work or perform same with or without making pcb but I have made PCb boards for this project. Actually not only for this, I always do prefer making any project using Customized PCB boards. There have obviously some advantages of making any project using PCB boards. like
+
+Compact Size and Saving of Wire.
+Ease of Repair and Diagnostic. If in case of any damage, it's very easy to check and replace the particular failure components.
+Saving of Time.
+Immune to Movement.
+Tight connections and Short Circuits Avoided.
+Low Electronic Noise.
+Low Cost.
+Reliability.
+
