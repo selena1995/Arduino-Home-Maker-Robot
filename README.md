@@ -37,12 +37,12 @@ Here I have attached the circuit or the connection diagram which is very easy to
 
 This project will work or perform same with or without making pcb but I have made PCb boards for this project. Actually not only for this, I always do prefer making any project using Customized PCB boards. There have obviously some advantages of making any project using PCB boards. like
 
-Compact Size and Saving of Wire.
-Ease of Repair and Diagnostic. If in case of any damage, it's very easy to check and replace the particular failure components.
-Saving of Time.
-Immune to Movement.
-Tight connections and Short Circuits Avoided.
-Low Electronic Noise.
-Low Cost.
-Reliability.
+- Compact Size and Saving of Wire.
+- Ease of Repair and Diagnostic. If in case of any damage, it's very easy to check and replace the particular failure components.
+- Saving of Time.
+- Immune to Movement.
+- Tight connections and Short Circuits Avoided.
+- Low Electronic Noise.
+- Low Cost.
+- Reliability.
 
