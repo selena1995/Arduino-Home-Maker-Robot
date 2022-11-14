@@ -46,3 +46,7 @@ This project will work or perform same with or without making pcb but I have mad
 - Low Cost.
 - Reliability.
 
+So I always make PCB BOARD for my every project. As I have already mentioned before I have already attached a circuit diagram with this article so please download that before you are going to connect all of them together. In my case, I have made a customized PCB board from JLCPCB to skip a few steps of wiring and make an easy connection between all the components.$2 for 5pcs PCBs, PCBA from $0, Register to Get Free Coupons here: https://jlcpcb.com/IYB. I really liked the PCB Boards as they are very high in quality.
+
+## ASSEMBLE THE ELECTRONIC COMPONENTS
+Now we will make all the components together. But before that please make sure that you have gathered all of them correctly. Here I have enlisted the components and also provided their pictures for your references. Hope this will help you to make this easier.
