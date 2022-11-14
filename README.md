@@ -66,6 +66,7 @@ Now we will make all the components together. But before that please make sure t
 - 220uF CAPACITOR
 - TERMINAL BLOCKS
 - HEADER PINS
+
 Now please assemble all the components together to complete the project. this is very easy to do if you follow the simple connection diagram. But if you have any doubt on this you may watch this video for better understand
 
 after assemble all the electronics part together only one thing will be left for us which is ARDUINO CODING. Trust me this part is really very easy as compared to these previous parts. So lets finish it...
