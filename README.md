@@ -6,6 +6,8 @@ Here in this instructable, I have made an Arduino Robot for house hold activitie
 ## Why Automatic/Robot Home Maker Is Needed
 There have so many robots are already available in the market who can clean the home, provides security protections, entertains people and many more. In case of my one, it is specialized in working side by side a person like other person works. Like, if you are cooking but on the same time you have to send a cup of tea to someone else, then the robot will carry the cup of tea to the other person. This will reduce work stress by working with a person. This will also use in hotels and restaurants in replacements of waiters.
 
+[YouTube](https://youtu.be/Ox3EG2p2tDU)
+
 ## PARTS OF THE PROJECT
 To make and understand it easily we have splatted this project into two main parts.
 
