@@ -50,3 +50,22 @@ So I always make PCB BOARD for my every project. As I have already mentioned bef
 
 ## ASSEMBLE THE ELECTRONIC COMPONENTS
 Now we will make all the components together. But before that please make sure that you have gathered all of them correctly. Here I have enlisted the components and also provided their pictures for your references. Hope this will help you to make this easier.
+![image](https://user-images.githubusercontent.com/79990158/201732096-1b744898-60f2-4eca-95ac-39bbb6f321c1.png)
+![image](https://user-images.githubusercontent.com/79990158/201732135-d30c1f8f-e9c0-46c8-abda-0e4d838dfb0c.png)
+![image](https://user-images.githubusercontent.com/79990158/201732172-d5ccf089-9908-4840-82f8-7d42ca59ad4a.png)
+![image](https://user-images.githubusercontent.com/79990158/201732226-1d2d9cf6-418a-41af-b15b-ab8bb4c0e535.png)
+
+
+## SO THE COMPONENTS THOSE WILL BE NEEDED ARE
+- ARDUINO NANO WITH CABLE
+- L298N MOTOR DRIVER
+- HC-05 BLUETOOTH MODULE
+- M4 DIODE
+- RED LED
+- 78M05 VOLTAGE REGULATOR
+- 220uF CAPACITOR
+- TERMINAL BLOCKS
+- HEADER PINS
+Now please assemble all the components together to complete the project. this is very easy to do if you follow the simple connection diagram. But if you have any doubt on this you may watch this video for better understand
+
+after assemble all the electronics part together only one thing will be left for us which is ARDUINO CODING. Trust me this part is really very easy as compared to these previous parts. So lets finish it...
