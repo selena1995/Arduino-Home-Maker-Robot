@@ -70,3 +70,24 @@ Now we will make all the components together. But before that please make sure t
 Now please assemble all the components together to complete the project. this is very easy to do if you follow the simple connection diagram. But if you have any doubt on this you may watch this video for better understand
 
 after assemble all the electronics part together only one thing will be left for us which is ARDUINO CODING. Trust me this part is really very easy as compared to these previous parts. So lets finish it...
+
+![image](https://user-images.githubusercontent.com/79990158/201732851-cf905af6-2183-486c-a930-5732fbb10133.png)
+
+## ARDUINO CODING
+
+First of all you need to download Arduino IDE in your system which is a completely free software for all the users. You can easily download it from their official website. Then download the necessary libraries like- Adafruit Motor Shield library, Dabble, etc. and then you have to select the correct boards and ports. Here in this case we are using Arduino Nano so you have select Arduino Nano & for port you have to select the port that shows in the software after connection your Arduino Board with your system. It will be some thing like com port 3, com port 7, com port 4 etc. and so on.
+
+![image](https://user-images.githubusercontent.com/79990158/201732992-97e0095c-44dc-458b-8d97-17146cb560aa.png)
+![image](https://user-images.githubusercontent.com/79990158/201733019-ed3c9e87-526a-436d-b43c-c56aa72e9ca9.png)
+![image](https://user-images.githubusercontent.com/79990158/201733055-17a7a97e-fbb4-4d95-8988-4569d445507c.png)
+
+Then you need to download or copy the given Arduino code and pest it or open it and upload it in Arduino Nano.
+
+PLEASE don't forget to disconnect the hc-05 Bluetooth module while uploading the code.
+
+## CONNECTING VIA BLUETOOTH
+
+![image](https://user-images.githubusercontent.com/79990158/201733185-69e27f56-f942-4e3b-8ec8-e710448be517.png)
+![image](https://user-images.githubusercontent.com/79990158/201733211-1c0b8772-2426-4e93-80db-5dc3945e43d4.png)
+
+After everything, finally we have to connect the robot with our android phone via Bluetooth. There have so many Android app easily available in play store. I have downloaded one of them and installed it in my Android phone. Then I have turned on the robot and searched for HC-05 Bluetooth. then they will as for the passwords. Most of the cases it is '1234'. then it will connect successfully with the robot. then open the app and run your bot.
